@@ -1,7 +1,7 @@
 # DL-JobNotes
 
-## [AI算法求职攻略](https://github.com/amusi/AI-Job-Notes)
 ## 刷题资源
+- [AI算法求职攻略](https://github.com/amusi/AI-Job-Notes)
 - [LeeCode](https://leetcode.cn/)
 - [时间紧张刷高频题](https://www.zhihu.com/question/24964987/answer/586425979)
 - [《剑指offer》](https://wx.zsxq.com/mweb/views/weread/search.html?keyword=%E5%89%91%E6%8C%87%20Offer%EF%BC%88%E7%AC%AC%202%20%E7%89%88%EF%BC%89)
