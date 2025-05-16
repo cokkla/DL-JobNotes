@@ -1,6 +1,6 @@
 # DL-JobNotes
 
-@[TOC]
+[TOC]
 
 ## 刷题资源
 - [AI算法求职攻略](https://github.com/amusi/AI-Job-Notes)
