@@ -15,3 +15,42 @@
 
 ## 公司
 - [AI类公司清单](https://github.com/amusi/CV-Company-List)
+
+
+## 学习资源
+- [大模型技术社区](https://kq4b3vgg5b.feishu.cn/wiki/JuJSwfbwmiwvbqkiQ7LcN1N1nhd)
+- 数据分析： [和鲸社区](https://www.heywhale.com/home)、[天池大赛&数据集](https://tianchi.aliyun.com/competition/?spm=a2c22.12282013.J_3941670930.J_aZgKQi_eXXukNIlZvhonv.d_menu_1)、 [FineBI-数据分析作品库](https://www.finebi.com/bicase)
+- [知识星球-代码随想录](https://wx.zsxq.com/group/88511825151142)
+- [稀土掘金](https://juejin.cn/)
+
+
+## 简历制作
+- [RX Resume](https://rxresu.me/auth/login)
+
+
+## 实用工具
+- [PDF2Word](https://www.cleverpdf.com/cn/pdf-to-word)
+- [latex表格工具](https://www.tablesgenerator.com/)
+- [latex公式工具](https://simpletex.cn/)
+- [Word文档限制解除工具](http://tools.bugscaner.com/office/word-remove-limit.html)
+- [PDF编辑工具](https://www.sejda.com/pdf-editor)
+- [配色工具](https://mycolor.space/?hex=%23845EC2&sub=1)
+- [Zlibrary 电子书](https://www.tboxn.com/560.html)
+
+## 论文
+### 查找
+- [CoolPaper](https://papers.cool/)
+- [arXiv每日学术速递](http://arxivdaily.com/)
+- [letpub期刊查询](https://www.letpub.com.cn/)
+- [PaperwithCode](https://paperswithcode.com/)
+- [ConnectedPapers](https://www.connectedpapers.com/)
+### 投稿
+- [AI 会议](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
+- [CCF Deadline](https://ccfddl.com/)
+
+## VPN
+- [GLaDOS](https://glados.rocks/)
+
+## 其他
+- [CNN-Explainer](https://poloclub.github.io/cnn-explainer/#article-relu) CNN基本知识可视化探索
+- [labml.ai](https://nn.labml.ai/) 经典模型代码复现及解释
